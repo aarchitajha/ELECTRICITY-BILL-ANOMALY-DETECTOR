@@ -299,4 +299,4 @@ python gui.py
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) (or as designated by the repository owner).
+This project is licensed under the [MIT License](LICENSE) .
